@@ -54,20 +54,20 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.vcardowner = ['6282138729360'] //ur owner number
+global.vcardowner = ['6282138729360,'] //ur owner number
 global.ownername = "iDreki🗿" //ur owner name
 global.ytname = "YT: Not Have" //ur yt chanel name
 global.socialm = "GitHub: Lupa" //ur github or insta name
 global.location = "Indonesia" //ur location
 
 //bot bomdy 
-global.owner = ['6282138729360']
+global.owner = ['6282138729360,6281574673521']
 global.ownertag = 'Drekii' //ur tag number
-global.botname = 'Drekk Bot MD V4' //ur bot name
+global.botname = 'Drekk Bot MD ⫹⫺' //ur bot name
 global.linkz = "https://youtu.be/WiIqCdiDjFo" //your theme url which will be displayed on whatsapp
 global.websitex = "https://youtu.be/WiIqCdiDjFo" //ur website to be displayed
 global.botscript = 'https://github.com/DGXeon/CheemsBot-MD4' //script link
-global.reactmoji = "😘" //ur menu react emoji
+global.reactmoji = "🗿" //ur menu react emoji
 global.themeemoji = "🦄" //ur theme emoji
 global.packname = "Drekk Bot Stickers\n\n\n\n\n\n\n\n\n\n\n🦄🦄🦄 " //ur sticker watermark packname
 global.author = "iDreki🗿👆" //ur sticker watermark author
